@@ -24,6 +24,14 @@
   color: white;
 }
 
+.btn{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(159, 112, 216);
+  outline: none;
+  color: aliceblue;
+}
+
 .App-link {
   color: #61dafb;
 }
